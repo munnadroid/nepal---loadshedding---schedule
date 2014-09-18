@@ -1,0 +1,83 @@
+{
+    "schedule": [
+        {
+            "group_1": [
+                {
+                    "day": "Sunday",
+                    "time1": "09:00 - 12:30",
+                    "time2": "04:00 - 9:00"
+                },
+                {
+                    "day": "Monday",
+                    "time1": "09:00 - 12:30",
+                    "time2": "04:00 - 9:00"
+                },
+                {
+                    "day": "Tuesday",
+                    "time1": null,
+                    "time2": null
+                },
+                {
+                    "day": "Wednesday",
+                    "time1": "09:00 - 12:30",
+                    "time2": "04:00 - 9:00"
+                },
+                {
+                    "day": "Thursday",
+                    "time1": "09:00 - 12:30",
+                    "time2": "04:00 - 9:00"
+                },
+                {
+                    "day": "Friday",
+                    "time1": "09:00 - 12:30",
+                    "time2": "04:00 - 9:00"
+                },
+                {
+                    "day": "Saturday",
+                    "time1": "09:00 - 12:30",
+                    "time2": "04:00 - 9:00"
+                }
+            ]
+        },
+        {
+            "group_2": [
+                {
+                    "day": "Sunday",
+                    "time1": null,
+                    "time2": null
+                },
+                {
+                    "day": "Monday",
+                    "time1": null,
+                    "time2": null
+                },
+                {
+                    "day": "Tuesday",
+                    "time1": null,
+                    "time2": null
+                },
+                {
+                    "day": "Wednesday",
+                    "time1": null,
+                    "time2": null
+                },
+                {
+                    "day": "Thursday",
+                    "time1": null,
+                    "time2": null
+                },
+                {
+                    "day": "Friday",
+                    "time1": null,
+                    "time2": null
+                },
+                {
+                    "day": "Saturday",
+                    "time1": null,
+                    "time2": null
+                }
+            ]
+        }
+    ],
+    "updated_date": "2069-11-28"
+}
