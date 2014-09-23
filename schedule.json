@@ -14,8 +14,8 @@
                 },
                 {
                     "day": "Tuesday",
-                    "time1": null,
-                    "time2": null
+                    "time1": "09:00 - 12:30",
+                    "time2": "04:00 - 9:00"
                 },
                 {
                     "day": "Wednesday",
